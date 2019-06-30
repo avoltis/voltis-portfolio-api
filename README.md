@@ -13,3 +13,15 @@ functional API with Node.js and the Express.js framework, returns json object wi
 ## Start App
 
 - `npm start` to run proj on port 3000
+
+## Publish to heroku
+
+Prerequisites: Install Git and the Heroku CLI
+
+- `heroku login`
+
+- `heroku create portfolio`
+
+- `git push heroku master` 
+
+- `heroku open` 

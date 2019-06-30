@@ -1,0 +1,121 @@
+{
+  "data": {
+    "firstName": "Voltis",
+    "lastName": "Agolli",
+    "title": "Software Engineer",
+    "address": "Wroclaw, Lower Silesian District, Poland",
+    "summary": "React Native Developer. In depth Experience in React, Javascript , OOP.",
+    "social": {
+      "github": "https://github.com/avoltis",
+      "linkedIn": "www.linkedin.com/in/voltisagolli-4aa46743"
+    },
+    "experience": [
+      {
+        "company": "Intive",
+        "title": "Software Engineer",
+        "startDate": "June 2018",
+        "endDate": "",
+        "timeLine": "",
+        "present": true,
+        "description": "React Native",
+        "address": "Wroclaw, Lower Silesian District, Poland"
+      },
+      {
+        "company": "Smartwork Albania",
+        "title": ".Net Developer",
+        "startDate": "March 2017",
+        "endDate": "October 2017",
+        "timeLine": "8 months",
+        "present": false,
+        "description": "MVC, API, C#, SQL, EF, JS, AJAX, Kendo UI",
+        "address": "Tirane, Albania"
+      },
+      {
+        "company": "Deloitte Albania and Kosova",
+        "title": ".Net Developer",
+        "startDate": "January 2016",
+        "endDate": "March 2017",
+        "timeLine": "1 year 3 months",
+        "present": false,
+        "description": "Proficient in C#, ASP.NET MVC, Microsoft SQL Server, SQL, SQLite ,Entity-Framework and Linq Code versioning tools { Git, Team Services and Bitbucket}",
+        "address": "Tirane, Albania"
+      },
+      {
+        "company": "Deloitte Albania and Kosova",
+        "title": "Information Technology Consultant",
+        "startDate": "January 2016",
+        "endDate": "March 2017",
+        "timeLine": "1 year 3 months",
+        "present": false,
+        "description": "SAP Basis ( User creation, roles, authorizations patching & update related procedures ) Page 1 of 2 Deploy at the desktop and/or server level and monitor any application running on any platform including Windows,Java, Web, Citrix and others. Participate in a 24x7 call-out if required.",
+        "address": "Tirane, Albania"
+      },
+      {
+        "company": "AKEP - Electronic and Postal Communications Authority",
+        "title": "Students Internship",
+        "startDate": "January 2014",
+        "endDate": "February 2014",
+        "timeLine": "2 months",
+        "present": false,
+        "description": "",
+        "address": "Tirane, Albania"
+      },
+      {
+        "company": "Huawei Technologies",
+        "title": "Students Internship",
+        "startDate": "June 2012",
+        "endDate": "July 2012",
+        "timeLine": "2 months",
+        "present": false,
+        "description": "",
+        "address": "Tirane, Albania"
+      }
+    ],
+    "education": [
+      {
+        "university": "Polytechnic University of Tirana",
+        "degree": "Master's degree",
+        "startYear": "2013",
+        "endYear": "2014",
+        "timeLine": "1 year",
+        "present": false,
+        "fieldOfStudy": "ICT (Information and Communications Technology)",
+        "address": "Tirane, Albania"
+      },
+      {
+        "university": "Polytechnic University of Tirana",
+        "degree": "Bachelors of Science",
+        "startYear": "2008",
+        "endYear": "2011",
+        "timeLine": "3 year",
+        "present": false,
+        "fieldOfStudy": "Telecommunications Engineering",
+        "address": "Tirane, Albania"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "ESOL Examination, BULATS",
+        "issuingOrganization": "British Council",
+        "issueDate": "",
+        "expirationDate": "",
+        "credentialID": "",
+        "credentialUrl": ""
+      }
+    ],
+    "skills": [
+      "React",
+      "react native",
+      "javascript",
+      "git",
+      "OOP",
+      ".NET Framework",
+      "Swift",
+      "Java",
+      "graphQL",
+      "Json"
+    ],
+    "topSkills": ["React", "javascript"],
+    "languages": ["English", "Albanian", "Italian"]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "api-node-express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avoltis/voltis-portfolio-api.git"
+  },
+  "author": "Voltis Agolli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avoltis/voltis-portfolio-api/issues"
+  },
+  "homepage": "https://github.com/avoltis/voltis-portfolio-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

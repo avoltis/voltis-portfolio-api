@@ -18,7 +18,20 @@
         "endDate": "",
         "timeLine": "",
         "present": true,
-        "description": "React Native",
+        "description": "Building cross-platform svod application and integrating platform specific functionality",
+        "skills": [
+          "React",
+          "React native",
+          "Javascript",
+          "GIT",
+          "OOP",
+          "Node + npm",
+          "Apollo",
+          "Swift",
+          "Java",
+          "graphQL",
+          "Json"
+        ],
         "address": "Wroclaw, Lower Silesian District, Poland"
       },
       {
@@ -28,7 +41,17 @@
         "endDate": "October 2017",
         "timeLine": "8 months",
         "present": false,
-        "description": "MVC, API, C#, SQL, EF, JS, AJAX, Kendo UI",
+        "description": "Creating frontend and backend functionality for e-commerce and financial web applications",
+        "skills": [
+          "MVC",
+          "API",
+          "Javascript",
+          "C#",
+          "SQL",
+          "EF",
+          "AJAX",
+          "Kendo UI"
+        ],
         "address": "Tirane, Albania"
       },
       {
@@ -38,7 +61,8 @@
         "endDate": "March 2017",
         "timeLine": "1 year 3 months",
         "present": false,
-        "description": "Proficient in C#, ASP.NET MVC, Microsoft SQL Server, SQL, SQLite ,Entity-Framework and Linq Code versioning tools { Git, Team Services and Bitbucket}",
+        "description": "Creating frontend and backend functionality for time-sheet and financial applications",
+        "skills": ["ASP.NET MVC", "API", "Javascript", "C#", "SQL", "EF"],
         "address": "Tirane, Albania"
       },
       {
@@ -49,6 +73,7 @@
         "timeLine": "1 year 3 months",
         "present": false,
         "description": "SAP Basis ( User creation, roles, authorizations patching & update related procedures ) Page 1 of 2 Deploy at the desktop and/or server level and monitor any application running on any platform including Windows,Java, Web, Citrix and others. Participate in a 24x7 call-out if required.",
+        "skills": ["SAP", "ABAP", "networking", "server"],
         "address": "Tirane, Albania"
       },
       {
@@ -59,6 +84,7 @@
         "timeLine": "2 months",
         "present": false,
         "description": "",
+        "skills": [],
         "address": "Tirane, Albania"
       },
       {
@@ -69,6 +95,7 @@
         "timeLine": "2 months",
         "present": false,
         "description": "",
+        "skills": [],
         "address": "Tirane, Albania"
       }
     ],

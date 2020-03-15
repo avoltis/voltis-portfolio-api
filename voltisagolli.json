@@ -4,7 +4,7 @@
     "lastName": "Agolli",
     "title": "FullStack Dev",
     "address": "Wroclaw Poland",
-    "summary": "4+ years of experience writing apps that span productivity. Extensive knowledge of front-end JavaScript, React Native and browser APIs as well as significant experience with popular frameworks and libraries like React, Redux and graphQL. My deep full-stack experience includes React Native, Redux, Expo, You.I, Node as well as more traditional technologies like ASP.NET, .NET Core and MySQL. Currently working as a react native engineer and always interested in a challenge. Reach out to v.agolli@live.com to connect!",
+    "summary": "4+ years of experience writing apps that span productivity. Extensive knowledge of front-end JavaScript, React Native and browser APIs as well as significant experience with popular frameworks and libraries like React, Redux and graphQL. My deep full-stack experience includes React Native, Redux, Expo, You.I, Node as well as more traditional technologies like ASP.NET, .NET Core and MySQL. Currently working as a react native engineer and always interested in a challenge. Reach out to <a href="mailto:v.agolli@live.com">v.agolli@live.com</a> to connect!",
     "social": {
       "github": "https://github.com/avoltis",
       "linkedIn": "www.linkedin.com/in/voltisagolli-4aa46743",
@@ -72,7 +72,7 @@
         "endDate": "March 2017",
         "timeLine": "1 year 3 months",
         "present": false,
-        "description": "SAP Basis ( User creation, roles, authorizations patching & update related procedures ) Page 1 of 2 Deploy at the desktop and/or server level and monitor any application running on any platform including Windows,Java, Web, Citrix and others. Participate in a 24x7 call-out if required.",
+        "description": "SAP Basis ( User creation, roles, authorizations patching & update related procedures). Deploy at the desktop and/or server level and monitor any application running on any platform including Windows,Java, Web, Citrix and others. Participate in a 24x7 call-out if required.",
         "skills": ["SAP", "ABAP", "networking", "server"],
         "address": "Tirane, Albania"
       },

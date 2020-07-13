@@ -20,6 +20,7 @@
         "present": true,
         "description": "Working across different programming languages and tooling to build SVOD and AVOD performant applications on mobile, tablet, and TV, Having single codebase and build uniform user interfaces that look and perform consistently across all form factors. Platforms:Apple mobile and TV devices ( Iphone & Tablets, TVOS devices) Android mobile and TV devices (Android mobile & tablets, FireTV devices) Roku devices",
         "skills": [
+          "Brightscript",
           "React",
           "React native",
           "Javascript",

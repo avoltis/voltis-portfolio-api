@@ -34,7 +34,7 @@
           "Json"
         ],
         "address": "Wroclaw, Lower Silesian District, Poland",
-        "image": "https://raw.githubusercontent.com/avoltis/voltis-portfolio-api/images/images/intive.png"
+        "image": "https://raw.githubusercontent.com/avoltis/voltis-portfolio-api/master/images/intive.png"
       },
       {
         "company": "Smartwork Albania",
@@ -55,7 +55,7 @@
           "Kendo UI"
         ],
         "address": "Tirane, Albania",
-        "image": "https://raw.githubusercontent.com/avoltis/voltis-portfolio-api/images/images/smartwork.jpeg"
+        "image": "https://raw.githubusercontent.com/avoltis/voltis-portfolio-api/master/images/smartwork.jpeg"
       },
       {
         "company": "Deloitte Albania and Kosova",
@@ -79,7 +79,7 @@
         "description": "SAP Basis ( User creation, roles, authorizations patching & update related procedures). Deploy at the desktop and/or server level and monitor any application running on any platform including Windows,Java, Web, Citrix and others. Participate in a 24x7 call-out if required.",
         "skills": ["SAP", "ABAP", "networking", "server"],
         "address": "Tirane, Albania",
-        "image": "https://raw.githubusercontent.com/avoltis/voltis-portfolio-api/images/images/deloitte.jpeg"
+        "image": "https://raw.githubusercontent.com/avoltis/voltis-portfolio-api/master/images/deloitte.jpeg"
       },
       {
         "company": "AKEP - Electronic and Postal Communications Authority",
@@ -91,7 +91,7 @@
         "description": "",
         "skills": [],
         "address": "Tirane, Albania",
-        "image": "https://raw.githubusercontent.com/avoltis/voltis-portfolio-api/images/images/akep.png"
+        "image": "https://raw.githubusercontent.com/avoltis/voltis-portfolio-api/master/images/akep.png"
       },
       {
         "company": "Huawei Technologies",
@@ -103,7 +103,7 @@
         "description": "",
         "skills": [],
         "address": "Tirane, Albania",
-        "image": "https://raw.githubusercontent.com/avoltis/voltis-portfolio-api/images/images/hwawei.jpeg"
+        "image": "https://raw.githubusercontent.com/avoltis/voltis-portfolio-api/master/images/hwawei.jpeg"
       }
     ],
     "education": [

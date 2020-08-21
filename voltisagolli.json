@@ -33,7 +33,8 @@
           "graphQL",
           "Json"
         ],
-        "address": "Wroclaw, Lower Silesian District, Poland"
+        "address": "Wroclaw, Lower Silesian District, Poland",
+        "image": ""
       },
       {
         "company": "Smartwork Albania",
@@ -53,7 +54,8 @@
           "AJAX",
           "Kendo UI"
         ],
-        "address": "Tirane, Albania"
+        "address": "Tirane, Albania",
+        "image": ""
       },
       {
         "company": "Deloitte Albania and Kosova",
@@ -64,7 +66,8 @@
         "present": false,
         "description": "Creating frontend and backend functionality for time-sheet and financial applications",
         "skills": ["ASP.NET MVC", "API", "Javascript", "C#", "SQL", "EF"],
-        "address": "Tirane, Albania"
+        "address": "Tirane, Albania",
+        "image": ""
       },
       {
         "company": "Deloitte Albania and Kosova",
@@ -75,7 +78,8 @@
         "present": false,
         "description": "SAP Basis ( User creation, roles, authorizations patching & update related procedures). Deploy at the desktop and/or server level and monitor any application running on any platform including Windows,Java, Web, Citrix and others. Participate in a 24x7 call-out if required.",
         "skills": ["SAP", "ABAP", "networking", "server"],
-        "address": "Tirane, Albania"
+        "address": "Tirane, Albania",
+        "image": ""
       },
       {
         "company": "AKEP - Electronic and Postal Communications Authority",
@@ -86,7 +90,8 @@
         "present": false,
         "description": "",
         "skills": [],
-        "address": "Tirane, Albania"
+        "address": "Tirane, Albania",
+        "image": ""
       },
       {
         "company": "Huawei Technologies",
@@ -97,7 +102,8 @@
         "present": false,
         "description": "",
         "skills": [],
-        "address": "Tirane, Albania"
+        "address": "Tirane, Albania",
+        "image": ""
       }
     ],
     "education": [

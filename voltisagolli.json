@@ -34,7 +34,7 @@
           "Json"
         ],
         "address": "Wroclaw, Lower Silesian District, Poland",
-        "image": "https://raw.githubusercontent.com/avoltis/voltis-portfolio-api/images/images/intive.jpeg"
+        "image": "https://raw.githubusercontent.com/avoltis/voltis-portfolio-api/images/images/intive.png"
       },
       {
         "company": "Smartwork Albania",
@@ -91,7 +91,7 @@
         "description": "",
         "skills": [],
         "address": "Tirane, Albania",
-        "image": "https://raw.githubusercontent.com/avoltis/voltis-portfolio-api/images/images/akep.jpeg"
+        "image": "https://raw.githubusercontent.com/avoltis/voltis-portfolio-api/images/images/akep.png"
       },
       {
         "company": "Huawei Technologies",

@@ -26,3 +26,6 @@ Prerequisites: Install Git and the Heroku CLI
 - `git push heroku master` 
 
 - `heroku open` 
+
+
+## MIT license - Please include permission notice
